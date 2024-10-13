@@ -1,0 +1,7 @@
+-Flask
+-Flask-PyMongo
+-Flask-JWT-Extended
+-Flask-Limiter
+-PyMongo
+-bcrypt
+-marshmallow
